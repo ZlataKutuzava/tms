@@ -1,0 +1,22 @@
+{
+  "name": "tms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZlataKutuzava/tms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZlataKutuzava/tms/issues"
+  },
+  "homepage": "https://github.com/ZlataKutuzava/tms#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
